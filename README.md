@@ -6,7 +6,7 @@ It's ported from project [Style Selector for SDXL 1.0](https://github.com/ahgsql
 
 
 ### StyledCLIPTextEncode
-![StyledCLIPTextEncode Screenshot](examples/styld-demo.png)
+![StyledCLIPTextEncode Screenshot](examples/style-demo.png)
 
 - the first conditioning output is Positive.
 - the second conditioning output is Negative.
